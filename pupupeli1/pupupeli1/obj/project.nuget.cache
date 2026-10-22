@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "2eT6lDtyJDQ=",
+  "success": true,
+  "projectFilePath": "C:\\ht\\ohj1ht\\suunnitelma\\pupupeli1\\pupupeli1\\pupupeli1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aino\\.nuget\\packages\\cyotek.drawing.bitmapfont\\2.0.4\\cyotek.drawing.bitmapfont.2.0.4.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\fontstashsharp.base\\1.2.0\\fontstashsharp.base.1.2.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\fontstashsharp.platformagnostic\\1.5.0\\fontstashsharp.platformagnostic.1.5.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\fontstashsharp.rasterizers.stbtruetypesharp\\1.2.0\\fontstashsharp.rasterizers.stbtruetypesharp.1.2.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\jypeli.farseerphysics.net\\2.0.10\\jypeli.farseerphysics.net.2.0.10.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\jypeli.net\\11.6.0\\jypeli.net.11.6.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0\\microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.core\\2.22.0\\silk.net.core.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.glfw\\2.22.0\\silk.net.glfw.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.input\\2.22.0\\silk.net.input.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.input.common\\2.22.0\\silk.net.input.common.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.input.glfw\\2.22.0\\silk.net.input.glfw.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.maths\\2.22.0\\silk.net.maths.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.openal\\2.22.0\\silk.net.openal.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.openal.soft.native\\1.23.1\\silk.net.openal.soft.native.1.23.1.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.opengl\\2.22.0\\silk.net.opengl.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.windowing\\2.22.0\\silk.net.windowing.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.windowing.common\\2.22.0\\silk.net.windowing.common.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\silk.net.windowing.glfw\\2.22.0\\silk.net.windowing.glfw.2.22.0.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\stbimagesharp\\2.30.16\\stbimagesharp.2.30.16.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\stbimagewritesharp\\1.16.7\\stbimagewritesharp.1.16.7.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\stbtruetypesharp\\1.26.12\\stbtruetypesharp.1.26.12.nupkg.sha512",
+    "C:\\Users\\Aino\\.nuget\\packages\\ultz.native.glfw\\3.4.0\\ultz.native.glfw.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
